@@ -12,7 +12,7 @@ run: autorun.m
 ## Citation
 If you find this code useful in your research, please consider citing and here is an example BibTeX entry:
 
-'''
+```
 @ARTICLE{9732319,
   author={Lin, Yihan and Sun, Jiawei and Li, Guoqi and Xiao, Gaoxi and Wen, Changyun and Deng, Lei and Stanley, H. Eugene},
   journal={IEEE/CAA Journal of Automatica Sinica}, 
@@ -22,5 +22,4 @@ If you find this code useful in your research, please consider citing and here i
   number={4},
   pages={635-651},
   doi={10.1109/JAS.2022.105455}}
-
-'''
+```
