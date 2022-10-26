@@ -33,3 +33,5 @@
 *.out
 *.app
 .DS_Store
+.DS_Store
+demo/.DS_Store
